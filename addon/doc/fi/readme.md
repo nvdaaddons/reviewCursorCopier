@@ -1,6 +1,6 @@
 # Tarkastelukohdistimen kopioija #
 
-* Tekijä: Tuukka Ojala <tuukka.ojala@gmail.com>
+* Tekijä: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Lataa [vakaa versio][1]
 * Lataa [kehitysversio][2]
 

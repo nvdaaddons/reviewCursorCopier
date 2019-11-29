@@ -1,6 +1,6 @@
 # Review Cursor Copier #
 
-* Autor: Tuukka Ojala <tuukka.ojala@gmail.com>
+* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Baixar [versão estável][1]
 * Baixar [versão de desenvolvimento][2]
 

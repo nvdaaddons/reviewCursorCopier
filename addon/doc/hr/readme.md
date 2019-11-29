@@ -1,6 +1,6 @@
 # Kopiranje preglednog kursora (Review Cursor Copier) #
 
-* Autor: Tuukka Ojala <tuukka.ojala@gmail.com>
+* Autor: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Preuzmi [stabilnu verziju][1]
 * Preuzmi [razvojnu verziju][2]
 

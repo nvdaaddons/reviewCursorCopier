@@ -1,6 +1,6 @@
 # 浏览光标复制器 #
 
-* 作者: Tuukka Ojala <tuukka.ojala@gmail.com>
+* 作者: Tuukka Ojala <tuukka.ojala@iki.fi>
 * 下载 [稳定版][1]
 * 下载 [开发板][2]
 

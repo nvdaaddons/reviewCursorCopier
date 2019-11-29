@@ -1,6 +1,6 @@
 # Kopierfunktionen für den NVDA-Cursor #
 
-* Autor: Tuukka Ojala<tuukka.ojala@gmail.com>
+* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
 * [Stabile Version herunterladen][1]
 * [Entwicklerversion herunterladen][2]
 
