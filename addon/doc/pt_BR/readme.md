@@ -1,6 +1,6 @@
 # Copiador do cursor de exploração #
 
-* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
+* Autor: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Baixe a [versão estável][1]
 * Baixe a [versão em desenvolvimento][2]
 
