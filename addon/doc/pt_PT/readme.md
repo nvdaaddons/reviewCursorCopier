@@ -1,8 +1,8 @@
-# Review Cursor Copier #
+# Copiar do cursor de revisão #
 
-* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
-* Baixar [versão estável][1]
-* Baixar [versão de desenvolvimento][2]
+* Autor: Tuukka Ojala <tuukka.ojala@iki.fi>
+* Descarregar [versão estável][1]
+* Descarregar [versão de desenvolvimento][2]
 
 Este extra para o NVDA fornece vários comandos para copiar o texto sob o
 cursor de revisão para a área de transferência. Actualmente, os seguintes
@@ -15,12 +15,12 @@ comandos estão implementados:
 * Copiar desde o início da palavra corrente até ao cursor de revisão;
 * Copiar desde o cursor de revisão até ao final da palavra corrente;
 
-Nenhum destes comandos se encontra pré-definido. Use a caixa de diálogo
-definir comandos, localizada no menu de configurações do NVDA para os
-definir. Todos os comandos fornecidos por este complemento podem ser
+Nenhum destes comandos tem atribuição de teclas. Use o diálogo Definir
+comandos, acedido pelo menu Preferências do NVDA, para fazer a
+atribuição. Todos os comandos fornecidos por este extra podem ser
 encontrados na categoria "revisão de texto". Mais informações sobre como
-configurar e modificar comandos podem ser encontradas no guia do utilizador
-do NVDA.
+configurar e modificar comandos podem ser encontradas no Manual do
+utilizador do NVDA.
 
 ## Licença:
 
