@@ -1,4 +1,4 @@
-# Copiador do cursor de exploração #
+# Copiador do Cursor de Exploração (Review Cursor Copier) #
 
 * Autor: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Baixe a [versão estável][1]
@@ -16,11 +16,11 @@ comandos são implementados:
 * Copiar do cursor de exploração até o final da palavra atual
 
 Nenhum desses comandos tem atribuições de teclas por padrão. Por favor, use
-o diálogo de gestos de entrada — definir comandos — localizado no menu de
+o diálogo definir comandos (gestos de entrada) localizado no menu de
 configurações do NVDA para configurá-los. Todos os comandos fornecidos por
 este complemento podem ser encontrados na categoria "exploração de
-texto". Mais informações sobre configuração e modificação de gestos —
-comandos — de entrada podem ser encontradas no guia do usuário do NVDA.
+texto". Mais informações sobre configuração e modificação de comandos
+(gestos) de entrada podem ser encontradas no guia do usuário do NVDA.
 
 ## Licença
 

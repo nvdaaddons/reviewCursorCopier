@@ -1,11 +1,11 @@
 # Review Cursor Copier #
 
-* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
+* Autore: Tuukka Ojala <tuukka.ojala@gmail.com>
 * Download [versione stabile][1]
 * Download [versione in sviluppo][2]
 
 Questo componente aggiuntivo fornisce numerosi comandi per copiare il testo
-presente vicino al cursore di controllo  negli appunti. Sono attualmente
+presente sotto al cursore di controllo  negli appunti. Sono attualmente
 disponibili i seguenti comandi:
 
 * Copia la riga su cui si trova il cursore di controllo
@@ -17,11 +17,11 @@ disponibili i seguenti comandi:
   controllo
 * Copia dalla posizione del cursore di controllo fino a fine parola
 
-Non ci sono scorciatoie da tastiera associate a questi comandi. Per
-effettuare un'associazione, servirsi della finestra gesti e tasti di
-immissione, presente nelle preferenze di NVDA. Consultare il manuale utente
-nel caso in cui si trovasse difficoltà nel compiere questa operazione. Tutti
-i comandi si trovano nella categoria revisione del testo.
+Non ci sono scorciatoie da tastiera associate a questi comandi per
+default. Per effettuare un'associazione, servirsi della finestra gesti e
+tasti di immissione, presente nelle preferenze di NVDA. Consultare il
+manuale utente nel caso in cui si trovasse difficoltà nel compiere questa
+operazione. Tutti i comandi si trovano nella categoria revisione del testo.
 
 ## Licenza
 
