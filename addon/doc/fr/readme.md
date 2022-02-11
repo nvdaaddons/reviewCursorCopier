@@ -1,6 +1,6 @@
 # Review Cursor Copier #
 
-* Author: Tuukka Ojala <tuukka.ojala@iki.fi>
+* Auteur : Tuukka Ojala <tuukka.ojala@iki.fi>
 * Télécharger [version stable][1]
 * Télécharger [version de développement][2]
 
@@ -17,9 +17,9 @@ suivantes sont implémentées :
 
 Aucune de ces commandes n'a une touche liée par défaut. Utiliser le dialogue
 Gestes de commandes située dans le menu Préférences de NVDA pour les
-configurer. Toutes les commandes fournies par ce module complémentaire
-peuvent être trouvées dans la catégorie "Revue de texte". Vous trouverez
-plus d'informations sur la configuration et la modification des Gestes de
+configurer. Toutes les commandes fournies par cette extension peuvent être
+trouvées dans la catégorie "Revue de texte". Vous trouverez plus
+d'informations sur la configuration et la modification des Gestes de
 commandes dans le Guide de l'utilisateur de NVDA.
 
 ## Licence
