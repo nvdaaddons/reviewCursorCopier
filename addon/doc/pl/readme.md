@@ -28,6 +28,6 @@ Ten dodatek jest obięty licencją GNU General Public License, wersja 2.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=rccp
+[1]: https://addons.nvda-project.org/files/get.php?file=reviewCursorCopier
 
 [2]: https://addons.nvda-project.org/files/get.php?file=rccp-dev
