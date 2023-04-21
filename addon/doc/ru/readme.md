@@ -28,6 +28,6 @@ NVDA. Все предусмотренные команды этого допол
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=reviewCursorCopier
+[1]: https://www.nvaccess.org/addonStore/legacy?file=reviewCursorCopier
 
-[2]: https://addons.nvda-project.org/files/get.php?file=rccp-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=rccp-dev
