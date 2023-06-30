@@ -15,7 +15,7 @@
 * Скопіювати від переглядового курсора до кінця поточного слова
 
 Початково ці команди не мають гарячих клавіш. використовуйте діалог «Жести
-вводу», розташоване в меню налаштувань NVDA, щоб їх призначити. Усі команди
+вводу», розташований в меню налаштувань NVDA, щоб їх призначити. Усі команди
 з цього додатка можна знайти у категорії «Перегляд тексту». Додаткову
 інформацію про налаштування та зміну жестів вводу можна знайти в посібнику
 користувача NVDA.
@@ -28,4 +28,5 @@
 
 [1]: https://www.nvaccess.org/addonStore/legacy?file=reviewCursorCopier
 
-[2]: https://www.nvaccess.org/addonStore/legacy?file=rccp-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=rccp-dev[2]:
+https://addons.nvda-project.org/files/get.php?file=rccp-dev
