@@ -18,45 +18,55 @@ msgstr ""
 "X-Generator: Poedit 3.3.2\n"
 
 #. Translators: Copying to the clipboard was successful.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:25
 msgid "Copied"
 msgstr "Скопійовано"
 
 #. Translators: Copying to the clipboard failed.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:28
 msgid "Failed to copy"
 msgstr "Не вдалося скопіювати"
 
 #. Translators: Describes the "copy line to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:36
 msgid "Copies the line under the review cursor to the clipboard."
 msgstr "Копіює рядок під переглядовим курсором в буфер обміну."
 
 #. Translators: Describes the "copy word to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:41
 msgid "Copies the word under the review cursor to the clipboard."
 msgstr "Копіює слово під переглядовим курсором в буфер обміну."
 
 #. Translators: Describes the "copy preceding line to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:46
 msgid "Copies the text from the start of the current line to the clipboard."
 msgstr "Копіює текст з початку поточного рядка до буфера обміну."
 
 #. Translators: Describes the "copy remaining line to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:51
 msgid "Copies the text until the end of the current line to the clipboard."
 msgstr "Копіює текст до кінця поточного рядка в буфер обміну."
 
 #. Translators: Describes the "copy preceding word to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:56
 msgid "Copies the text from the start of the current word to the clipboard."
 msgstr "Копіює текст з початку поточного слова до буфера обміну."
 
 #. Translators: Describes the "copy remaining word to clipboard" command.
+#: addon\globalPlugins\reviewCursorCopier\__init__.py:61
 msgid "Copies the text until the end of the current word to the clipboard."
 msgstr "Копіює текст до кінця поточного слова в буфер обміну."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
 #. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
 msgid "Review Cursor Copier"
 msgstr "Review Cursor Copier"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
 msgid ""
 "Provides various commands for copying the text under the review cursor to "
 "the clipboard. Please consult the documentation for more information."
