@@ -1,4 +1,4 @@
-# Review Cursor Copier #
+# Копировщик Просмотрового Курсора #
 
 * Автор: Tuukka Ojala <tuukka.ojala@iki.fi>
 * Загрузить [стабильную версию][1]
