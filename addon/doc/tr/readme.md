@@ -1,4 +1,4 @@
-# İnceleme İmleç Kopyalayıcısı #
+# İnceleme İmleci Kopyalayıcısı #
 
 * Yaan: Tuukka Ojala <tuukka.ojala@iki.fi>
 * [kararlı sürüm][1] indir
